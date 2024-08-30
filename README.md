@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Frontend Frameworks, Ui Ux**
 
-- 💬 Ask me about **React, Figma**
-
 - 📫 How to reach me **karthikkotharkar29@gmal.com**
 
 <h3 align="left">Connect with me:</h3>
