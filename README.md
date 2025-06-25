@@ -1,5 +1,11 @@
 # Hi 👋 I am Karthik!
-I am a CS undergrad at [Canara Engineering College](https://cec.canaraengineeringcollege.in/).
+I'm a Computer Science graduate passionate about cloud technologies and DevOps practices. I focus on building and managing scalable, automated systems using modern infrastructure tools and platforms.
+
+🛠️ Tools & Technologies I work with:
+AWS (ECS, ECR, CodePipeline, CloudFormation, CodeBuild)
+Docker, GitHub Actions, Jenkins
+Linux, Bash, CI/CD
+Java, React.Js
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karthikk29&show_icons=true&theme=bear" width="400" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikk29&theme=dark&hide_border=true" width="400" height="200">
